@@ -1,8 +1,8 @@
 # morbus
 Morbus means disease or something. I nabbed the name from a meme about a certian movie that will not age well.
 
-Morbus isn't designed to be the worst language ever;
-some of the operations aren't necessary and are provided for convenience and a stack is provided for isolating numbers being operated on.
+Morbus isn't designed to be the worst language ever.
+There are some redundant operations provided for convenience and a stack is provided to make operating on numbers easier.
 It was instead designed to maximize goto nonsense by making the goto the most prominent thing on each executed line.
 
 Morbus has two sections of memory: program memory and stack.
