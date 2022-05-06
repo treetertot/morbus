@@ -16,25 +16,16 @@ The stack is what most of the operations modify.
 
 The operations are:
 
-0 - Push Next
-
-1 - Push Address
-
-2 - Pop Address
-
-3 - Duplicate
-
-4 - Swap
-
-5 - Add
-
-6 - Subtract
-
-7 - Multiply
-
-8 - Divide
-
-9 - Quit
+- 0 - Push Next
+- 1 - Push Address
+- 2 - Pop Address
+- 3 - Duplicate
+- 4 - Swap
+- 5 - Add
+- 6 - Subtract
+- 7 - Multiply
+- 8 - Divide
+- 9 - Quit
 
 
 Push Next pushes the number on the next line onto the stack.
