@@ -50,3 +50,5 @@ For some examples take a look at the .morb files in this repository.
 hello.morb returns with the numbers that would make "Hello, world!" if they were bytes.
 
 average.morb averages three numbers in the file.
+
+mod.morb calculates 23 % 3
